@@ -1,1 +1,1 @@
-print("SMP Tracker")
+print("SMP Tracker - Day 41")
