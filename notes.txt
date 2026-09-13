@@ -1,1 +1,4 @@
 My name is Fitz Ogweno, you can call me Fitz and I am learning Git and version control.
+Day 44 — GitHub & Remote Repositories
+
+Learned the difference between local and remote repositories. Created a GitHub account and smp-tracker repository, configured SSH authentication, connected my local repository to GitHub, renamed master to main, and successfully pushed my project to GitHub. Practiced branches, commits, merging, and deleting a feature branch. Learned git push, git pull, git remote, and git clone.
